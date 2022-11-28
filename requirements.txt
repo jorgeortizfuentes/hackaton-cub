@@ -4,3 +4,4 @@ evaluate
 scikit-learn
 pandas
 swifter
+sentencepiece
